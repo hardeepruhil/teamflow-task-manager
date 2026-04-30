@@ -30,6 +30,6 @@
     "lucide-react": "^0.468.0"
   },
   "engines": {
-    "node": ">=20"
+    "node": "20.x"
   }
 }
